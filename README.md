@@ -17,6 +17,7 @@ Le troisième script est un Dashboard de type Streamlit capable d'interroger l'A
 ## Tests Unitaires
 
 Des tests unitaires doivent être ajoutés aux scripts pour assurer la qualité et la fiabilité du code. Les tests unitaires doivent être conçus pour tester chaque fonction individuellement pour s'assurer qu'elle fonctionne correctement et qu'elle ne provoque pas d'erreurs ou d'exceptions. Les tests unitaires doivent également être exécutés régulièrement pour s'assurer que le code reste fiable et fonctionnel.
+A noter que le test se lance uniquement avec streamlit, sinon vous aurez une erreur.
 
 ## Conclusion
 
